@@ -1,4 +1,5 @@
 🌐 Website Traffic Analysis
+
 This repository contains a Jupyter Notebook that analyzes website traffic data to uncover user behavior patterns, traffic sources, session trends, and other key performance metrics. The goal is to support data-driven decisions for optimizing digital presence and marketing strategies.
 
 📁 Files
